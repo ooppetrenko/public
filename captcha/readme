@@ -2,11 +2,7 @@
 #
 #
 
-Сам двиагтель капчи это captcha.php ; подключайте его так как показанно в index.php
-
-Я очень топово объясняю, по этому удачи!
-
-dev in Pakistan
+The captcha engine itself is recaptcha.php; include it as shown in index.php. The mechanism is intuitively understandable.
 
 #
 #
